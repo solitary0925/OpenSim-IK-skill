@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local study inputs, geometry, configurations and generated results.
+inputs/
+outputs/
+data/
+results/
+Geometry/
+my_study.json
+*.local.json
+*.c3d
+*.vsk
+*.osim
+*.trc
+*.mot
+*.sto
+*.vtp

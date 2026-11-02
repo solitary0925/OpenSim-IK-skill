@@ -1,0 +1,20 @@
+{
+  "package": "opensim-vicon-ik",
+  "version": "1.4.0",
+  "files": {
+    "agents/openai.yaml": "84a88c063c3e0907e2aa541ee4d75b224810a6701a061833b2b9b560a0085a6c",
+    "assets/config.example.json": "538cf33f148305504fb30b5a9e9af9cf9fe3c47733dff3afab1355365d05e598",
+    "references/configuration.md": "9777d84d271ea7095125f2aeeb9d432c927a0626f7ef134c9d58716e3f6320d6",
+    "scripts/batch_ik.py": "9ed6afc8ab1ab8d5f8dd28ba192488d33cfdab7a3add118d371c2583702e03e1",
+    "scripts/blocked_inputs.py": "8287eb2c0f8f1926b6fa9fb0db4ecdf83ac634112dbf18fa1b16fc509c649394",
+    "scripts/marker_alignment.py": "6aeff26242f63b2acacb75ddc675487342cf5f3d61cc5d7874a0b1f13b56905b",
+    "scripts/result_policy.py": "d18aceeaa51e40d519eb8a8c1087d24c4db9c31f5f4efb54259cca064096252f",
+    "scripts/review_context.py": "81303acd3e0c186f0533b244cfebfec102e4b402598a9d5d67a0a57ca982b975",
+    "scripts/review_ik.py": "7aaee5deff3d6b3eeb866aa65eb921344eb1d2f63d7d38c3ef4b608c7c2f4a3e",
+    "scripts/run_config.py": "d628f53055ca08f3fcb742612cf09c4e94e1e80839f0c24b41286e06c6d8e94e",
+    "scripts/run_ik.py": "10f79519ead888ab51a4ca6a433c054d8c48fa5f4a8a18834db666d579efd3c8",
+    "scripts/timing.py": "355c259ec8d4733661b80143586b455204d6240524f7f017a1a0b3047008a801",
+    "scripts/visualize_ik.py": "62a8412afd40196d50e9be79621ae4914ee9eb4569e772ddec89986200e0cf13",
+    "SKILL.md": "c1bc3de1748973b86274f95f50eea1b8bcc4b355d302a003df86f10259e68516"
+  }
+}

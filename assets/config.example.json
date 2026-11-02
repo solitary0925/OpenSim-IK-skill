@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "subject": "SUBJECT",
+  "model": "../inputs/scaled.osim",
+  "data": "../inputs/session",
+  "output": "../outputs/IK",
+  "geometry_dir": "../inputs/Geometry",
+  "window": {"start": null, "end": null},
+  "analysis_windows": {},
+  "weights": {},
+  "marker_map": {},
+  "rotation": [-1, 0, 0, 0, 0, 1, 0, 1, 0],
+  "exclusions": [],
+  "workers": 2,
+  "reuse_existing": false,
+  "overwrite": false,
+  "visualization": {"enabled": true, "max_frames_per_trial": 3}
+}

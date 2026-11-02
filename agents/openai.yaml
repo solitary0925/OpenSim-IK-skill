@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSim Vicon IK"
+  short_description: "使用原膝模型完成动态 Vicon IK，锁定无观测坐标并输出逐帧误差"
+  default_prompt: "使用 $opensim-vicon-ik 检查动态 C3D、锁定无观测坐标并执行 IK，保留配置与误差报告。"
